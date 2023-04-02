@@ -1,6 +1,6 @@
 # akamalov.com
 
-## Technologies used:
+### Technologies used:
 
 Three.js - Makes WebGl easy
 HTML, CSS, JS
