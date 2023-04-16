@@ -169,7 +169,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Abror’s tech skills are top-notch. He delivers great results.",
+      "Abror is a professional web developer. We met just for 1 briefing call and then 3 days later he delivered very good quality website. I highly recommend him!",
     name: "Seva Losev",
     designation: "CFO",
     company: "Canadian International Sport & Educational Center",
@@ -177,7 +177,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "It was great working with Abror. He brings fresh ideas and goes the extra mile.",
+      "Abror is a solid worker who will put in the extra effort to get tasks done. He spends a lot of time getting things perfect.",
     name: "Samuel Cadotte",
     designation: "Software Engineer",
     company: "DreamLaunch",
@@ -185,7 +185,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "Abror's precision and excellence are assets to any software team.",
+      "Abror is amazing to work with! He's super detail-oriented and always produces top-notch work. A real asset to any software engineering team.",
     name: "Ritesh Uppal",
     designation: "Event Coordinator",
     company: "DreamLaunch",
