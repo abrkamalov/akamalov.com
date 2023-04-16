@@ -1,0 +1,11 @@
+Model Information:
+* title:	Public Mail Box
+* source:	https://sketchfab.com/3d-models/public-mail-box-e09256bf6e4b4f0b97914dca034aecb1
+* author:	Thunder (https://sketchfab.com/thunderpwn)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Public Mail Box" (https://sketchfab.com/3d-models/public-mail-box-e09256bf6e4b4f0b97914dca034aecb1) by Thunder (https://sketchfab.com/thunderpwn) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
