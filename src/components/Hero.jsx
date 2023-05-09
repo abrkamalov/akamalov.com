@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 
 import { styles } from '../styles';
-import { IslandCanvas } from './canvas';
+import { LaptopCanvas } from './canvas';
 
 const Hero = () => {
   return (
@@ -16,11 +16,11 @@ const Hero = () => {
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I develop creative and <br className='sm:block hidden' /> scalable software solutions.
           </p>
-          <p className='text-gray-500'>3D model below is "...Fire in the sky" by WON</p>
+          <p className='text-gray-500'>3D model below is "Voxel Web Development" by Diego G.</p>
         </div>
       </div>
 
-      <IslandCanvas />
+      <LaptopCanvas />
 
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
         <a href='#about'>
