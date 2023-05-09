@@ -24,6 +24,7 @@ import threejs from "./tech/threejs.svg";
 import dreamlaunch from "./company/dreamlaunch.png";
 import blackberry from "./company/blackberry.png";
 import cisec from "./company/cisec.png";
+import strelka from "./company/strelka.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -54,6 +55,7 @@ export {
   dreamlaunch,
   blackberry,
   cisec,
+  strelka,
   carrent,
   jobit,
   tripguide,
