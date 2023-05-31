@@ -176,7 +176,7 @@ const testimonials = [
     name: "Seva Losev",
     designation: "CFO",
     company: "Canadian International Sport & Educational Center",
-    image: "https://media.licdn.com/dms/image/C4D03AQE1kd475z0gtA/profile-displayphoto-shrink_800_800/0/1645386631852?e=1687392000&v=beta&t=-UOJogQg4RGTec0PjxBe-l5AR4O7S13LlhF_iNG6YLc",
+    image: "https://media.licdn.com/dms/image/D4E03AQHbt9dljyoKLQ/profile-displayphoto-shrink_800_800/0/1684799871237?e=1691020800&v=beta&t=LCC66SoTsklTmMXtKc-i75jREQcyaghtsA0FOOcHGjo",
   },
   {
     testimonial:
