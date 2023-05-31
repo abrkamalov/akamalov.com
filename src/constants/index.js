@@ -55,19 +55,19 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Full Stack Web Development",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Custom API Development",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Mobile App Development",
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "Technical Consulting",
     icon: creator,
   },
 ];
@@ -129,19 +129,6 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Engineer II",
-    company_name: "DreamLaunch",
-    icon: dreamlaunch,
-    iconBg: "#383E56",
-    date: "September 2022 - Present",
-    points: [
-      "Developed the front end for 2 working prototypes of the company's core product, with TypeScript, React, and Redux to create engaging and user-friendly interfaces that received positive feedback from 100 event attendees.",
-      "Collaborated closely with the back-end team to ensure seamless integration with the prototypes, enabling efficient data exchange and smooth user interactions.",
-      "Actively participated in user testing and feedback sessions during events, incorporating insights to iterate on and improve the prototypes, leading to a 20% increase in user satisfaction.",
-      "Contributed to the Agile development process within the startup environment, ensuring rapid iteration and adaptation to changing requirements, enabling the successful delivery of prototypes for live testing.",
-    ],
-  },
-  {
     title: "Web Developer",
     company_name: "BlackBerry",
     icon: blackberry,
@@ -151,12 +138,12 @@ const experiences = [
       "Contributed to front-end development within a large team, completing 10+ user interface components with React.",
       "Assisted in implementing responsive design techniques, improving cross-device compatibility.",
       "Collaborated with the quality assurance team to identify and resolve 50+ front-end bugs and issues.",
-      "Participated in weekly knowledge-sharing sessions and team workshops, expanding my technical skill set.",
+      "Developed a comprehensive documentation repository to support onboarding and training of future interns.",
     ],
   },
   {
     title: "Software Developer",
-    company_name: "Canadian International Sport & Educational Center",
+    company_name: "Canadian International Sports Center",
     icon: cisec,
     iconBg: "#383E56",
     date: "March 2021 - December 2021",
@@ -176,7 +163,7 @@ const experiences = [
     points: [
       "Developed 3 full-stack web applications using React, Node.js, and Python, contributing to successful project completion.",
       "Assisted in implementing microservices architecture in 2 projects, supporting the team in reducing development time.",
-      " Participated in Agile development processes, quickly adapting to the methodology.",
+      "Participated in Agile development processes, quickly adapting to the methodology.",
       "Collaborated in designing and developing 5 RESTful APIs, helping to improve application interoperability.",
     ],
   },
@@ -211,58 +198,57 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Personal Portfolio",
+    name: "WrapUps - tackling food waste in Russia",
     description:
-      "Interactive personal website showcasing portfolio, built with React, Three.js for 3D animations, and styled using TailwindCSS.",
+      "Developed a food-waste reduction app, for the Russian market, connecting consumers with local food establishments offering surplus food at reduced prices.",
     tags: [
       {
-        name: "react",
+        name: "react native",
         color: "blue-text-gradient",
       },
       {
-        name: "three.js",
+        name: "node.js",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "express",
         color: "pink-text-gradient",
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/abrkamalov/akamalov.com",
   },
   {
-    name: "DreamLinked",
+    name: "DostOvoz - Uzbek conversational AI",
     description:
-      "DreamLinked's sleek landing page built using React showcases the platform's unique features and offerings to potential users.",
+      "Developed an Uzbek-language chatbot, DostOvoz, enabling users to interact in Uzbek and receive AI-powered responses based on ChatGPT.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "scss",
+        name: "django",
         color: "pink-text-gradient",
       },
     ],
     image: jobit,
   },
   {
-    name: "EasyHomework",
+    name: "Minecraft-inspired voxel world with three.js",
     description:
-      "EasyHomeworks landing page built using React provides a user-friendly and intuitive interface for students and tutors to connect and collaborate.",
+      "Created a browser-based voxel world using Three.js. Developed an environment with five distinct block textures and a flat landscape. Check out minecraft.akamalov.com!",
     tags: [
       {
-        name: "react",
-        color: "blue-text-gradient",
+        name: "three.js",
+        color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "react",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/abrkamalov/easydz.ru",
+    source_code_link: "https://github.com/abrkamalov/minecraft-three.js",
   },
 ];
 

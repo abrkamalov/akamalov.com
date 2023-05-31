@@ -50,7 +50,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        Highly motivated and results-driven Software Engineer with over 2
+        Highly motivated and results-driven Software Engineer with over 3
         years of experience in web development, seeking to contribute my
         technical expertise and problem-solving skills to a dynamic team.
         Adept at working with multiple programming languages and frameworks,

@@ -26,7 +26,7 @@ function generateRandomPointsInSphere(numPoints, radius) {
 
 const Stars = (props) => {
   const ref = useRef();
-  const [sphere] = useState(() => generateRandomPointsInSphere(1000, 1.2));
+  const [sphere] = useState(() => generateRandomPointsInSphere(250, 1.2));
 
   useFrame((state, delta) => {
     ref.current.rotation.x -= delta / 10;
